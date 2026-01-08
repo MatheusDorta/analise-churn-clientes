@@ -14,6 +14,4 @@ Identificar padrões de cancelamento em uma base de +10k clientes e prever novos
 * Identificação de que o risco crítico de churn ocorre nos primeiros 3 meses.
 * Dashboard interativo para gestão de Ticket Médio e Retenção.
 
-## 🖼 Visualização
-![Dashboard](dashboard_final.png)
-*(Certifique-se de que o nome da imagem aqui é igual ao que você subiu)*
+
