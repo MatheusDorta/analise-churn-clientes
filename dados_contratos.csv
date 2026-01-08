@@ -1,0 +1,501 @@
+ID_Contrato,Cidade,Valor_Mensal,Data_Inicio,Data_Fim,Status,Motivo_Cancelamento
+1,Londrina,966.27,2023-08-16,,Ativo,
+2,São Paulo,2235.25,2023-09-14,2024-07-02,Cancelado,Mudança de Endereço
+3,São Paulo,2436.14,2025-03-05,,Ativo,
+4,São Paulo,1514.08,2024-03-15,,Ativo,
+5,São Paulo,617.49,2024-10-28,,Ativo,
+6,São Paulo,1845.51,2025-01-25,,Ativo,
+7,Londrina,1636.75,2025-04-16,,Ativo,
+8,Toledo,593.53,2025-06-06,,Ativo,
+9,Toledo,1377.11,2025-01-25,,Ativo,
+10,Londrina,1811.98,2023-06-22,,Ativo,
+11,São Paulo,1616.16,2025-01-10,,Ativo,
+12,Toledo,1341.45,2025-05-10,2025-09-02,Cancelado,Financeiro
+13,São Paulo,1072.7,2024-05-01,,Ativo,
+14,São Paulo,1113.49,2025-06-17,,Ativo,
+15,Londrina,1005.34,2025-08-04,,Ativo,
+16,São Paulo,643.2,2023-03-25,,Ativo,
+17,Toledo,1556.88,2025-06-13,,Ativo,
+18,São Paulo,2394.23,2023-09-06,,Ativo,
+19,São Paulo,790.63,2024-07-25,,Ativo,
+20,Toledo,2412.07,2025-08-16,,Ativo,
+21,São Paulo,2397.18,2023-06-10,,Ativo,
+22,Londrina,2349.49,2023-02-27,,Ativo,
+23,São Paulo,1790.6,2023-01-08,,Ativo,
+24,São Paulo,845.47,2023-10-04,,Ativo,
+25,Toledo,2437.64,2023-02-18,,Ativo,
+26,São Paulo,1497.48,2024-05-24,,Ativo,
+27,Toledo,2046.45,2025-08-05,,Ativo,
+28,Toledo,766.42,2024-04-12,2024-05-27,Cancelado,Financeiro
+29,Londrina,1702.86,2023-03-28,2024-03-22,Cancelado,Mudança de Endereço
+30,Londrina,820.68,2025-04-16,,Ativo,
+31,Londrina,2316.81,2024-06-20,,Ativo,
+32,São Paulo,567.67,2024-12-28,,Ativo,
+33,Toledo,1265.35,2024-11-15,,Ativo,
+34,Londrina,2136.21,2023-02-22,,Ativo,
+35,Toledo,1040.18,2023-04-08,,Ativo,
+36,São Paulo,1160.31,2023-08-20,,Ativo,
+37,São Paulo,559.03,2024-08-21,2025-01-25,Cancelado,Mudança de Endereço
+38,São Paulo,624.91,2024-05-11,,Ativo,
+39,Londrina,1418.13,2025-01-04,,Ativo,
+40,São Paulo,1953.87,2024-09-01,,Ativo,
+41,São Paulo,1118.24,2023-05-08,,Ativo,
+42,São Paulo,1713.09,2025-09-21,2026-01-06,Cancelado,Mudança de Endereço
+43,São Paulo,519.62,2023-02-24,,Ativo,
+44,Toledo,1946.8,2024-03-05,,Ativo,
+45,Toledo,1739.19,2024-02-20,,Ativo,
+46,São Paulo,1281.43,2024-05-21,,Ativo,
+47,São Paulo,520.14,2025-09-27,,Ativo,
+48,São Paulo,2119.62,2023-03-25,,Ativo,
+49,Toledo,2340.31,2023-05-25,,Ativo,
+50,São Paulo,1173.26,2024-12-22,,Ativo,
+51,São Paulo,1878.11,2025-05-13,,Ativo,
+52,São Paulo,2174.97,2024-09-20,2025-01-21,Cancelado,Mau Atendimento
+53,Londrina,1995.36,2023-02-10,,Ativo,
+54,Toledo,2439.23,2024-12-04,,Ativo,
+55,Toledo,2278.06,2025-06-21,,Ativo,
+56,São Paulo,1946.25,2025-09-09,,Ativo,
+57,Londrina,2498.28,2024-08-10,,Ativo,
+58,São Paulo,1970.65,2025-06-03,,Ativo,
+59,Londrina,1185.75,2023-10-01,,Ativo,
+60,Londrina,627.04,2024-11-30,,Ativo,
+61,Toledo,1407.89,2023-08-14,,Ativo,
+62,São Paulo,1691.61,2024-07-03,2024-12-01,Cancelado,Financeiro
+63,Londrina,2057.71,2024-09-04,,Ativo,
+64,Londrina,1849.93,2024-11-02,2025-03-13,Cancelado,Concorrência
+65,São Paulo,2332.36,2024-05-24,,Ativo,
+66,Londrina,1052.71,2025-05-28,,Ativo,
+67,São Paulo,1236.85,2025-06-04,,Ativo,
+68,Toledo,824.58,2025-03-26,,Ativo,
+69,São Paulo,1306.3,2024-04-27,,Ativo,
+70,Toledo,602.31,2023-09-13,,Ativo,
+71,São Paulo,858.56,2025-04-09,,Ativo,
+72,São Paulo,544.81,2025-07-22,,Ativo,
+73,São Paulo,2239.89,2024-08-27,,Ativo,
+74,Toledo,1587.06,2023-03-10,2023-09-08,Cancelado,Mau Atendimento
+75,Londrina,1591.17,2023-04-26,2023-06-06,Cancelado,Mau Atendimento
+76,Londrina,1927.86,2023-02-25,,Ativo,
+77,São Paulo,1035.21,2023-12-06,,Ativo,
+78,Londrina,1538.91,2024-07-02,,Ativo,
+79,São Paulo,1020.72,2024-05-07,,Ativo,
+80,Toledo,2182.61,2023-04-23,,Ativo,
+81,Toledo,1532.4,2023-08-17,,Ativo,
+82,Londrina,560.24,2023-01-15,,Ativo,
+83,Toledo,1600.19,2023-05-08,,Ativo,
+84,São Paulo,1345.86,2025-07-03,2025-10-26,Cancelado,Mudança de Endereço
+85,Londrina,1964.77,2024-05-17,,Ativo,
+86,Londrina,826.29,2025-01-25,,Ativo,
+87,Londrina,1521.25,2024-09-04,,Ativo,
+88,São Paulo,1835.42,2024-04-28,,Ativo,
+89,São Paulo,1594.78,2024-12-04,2025-08-21,Cancelado,Financeiro
+90,São Paulo,506.84,2024-04-11,2024-05-23,Cancelado,Concorrência
+91,Londrina,2398.06,2024-03-11,,Ativo,
+92,São Paulo,2421.37,2025-01-08,2025-12-01,Cancelado,Financeiro
+93,São Paulo,1289.4,2024-07-30,,Ativo,
+94,São Paulo,2212.0,2023-03-04,,Ativo,
+95,São Paulo,2422.1,2023-10-19,,Ativo,
+96,Londrina,1837.48,2025-02-18,,Ativo,
+97,Toledo,1165.55,2023-05-07,,Ativo,
+98,São Paulo,1852.83,2024-07-30,2025-02-02,Cancelado,Mau Atendimento
+99,São Paulo,1504.71,2024-10-30,,Ativo,
+100,São Paulo,562.3,2024-11-30,,Ativo,
+101,São Paulo,1050.17,2024-07-30,,Ativo,
+102,São Paulo,2466.09,2024-08-06,,Ativo,
+103,São Paulo,2315.55,2023-02-27,,Ativo,
+104,São Paulo,906.46,2025-04-03,,Ativo,
+105,São Paulo,2001.44,2024-06-17,2025-05-11,Cancelado,Mau Atendimento
+106,São Paulo,2465.59,2024-08-07,,Ativo,
+107,Toledo,1091.28,2023-04-25,,Ativo,
+108,Londrina,1104.24,2024-02-27,,Ativo,
+109,São Paulo,2457.44,2023-02-25,,Ativo,
+110,São Paulo,928.35,2025-08-12,2026-01-06,Cancelado,Preço
+111,São Paulo,1197.44,2023-06-02,,Ativo,
+112,Toledo,1686.56,2024-02-13,,Ativo,
+113,São Paulo,1681.36,2023-09-03,,Ativo,
+114,Londrina,1655.38,2024-07-21,2025-04-01,Cancelado,Mudança de Endereço
+115,São Paulo,1912.34,2024-02-11,2024-12-02,Cancelado,Financeiro
+116,São Paulo,1381.14,2023-10-12,2024-07-17,Cancelado,Financeiro
+117,Londrina,1326.02,2023-06-12,,Ativo,
+118,Toledo,928.74,2023-07-22,,Ativo,
+119,Londrina,637.63,2025-08-20,2025-11-03,Cancelado,Concorrência
+120,São Paulo,800.3,2024-03-27,,Ativo,
+121,São Paulo,2345.41,2024-04-15,2025-02-10,Cancelado,Mau Atendimento
+122,Londrina,955.59,2025-09-01,,Ativo,
+123,São Paulo,1352.04,2023-01-13,,Ativo,
+124,São Paulo,2338.91,2023-07-05,2024-06-15,Cancelado,Concorrência
+125,Toledo,1717.35,2025-02-18,2025-04-15,Cancelado,Mudança de Endereço
+126,Toledo,2140.99,2023-10-24,,Ativo,
+127,São Paulo,1071.14,2023-09-15,,Ativo,
+128,São Paulo,698.25,2025-02-26,,Ativo,
+129,São Paulo,2453.52,2023-12-20,,Ativo,
+130,São Paulo,752.01,2025-03-23,,Ativo,
+131,São Paulo,1853.48,2023-05-09,,Ativo,
+132,Toledo,1272.97,2024-08-22,2025-07-08,Cancelado,Mau Atendimento
+133,Londrina,2320.11,2024-04-25,,Ativo,
+134,Toledo,1275.5,2024-05-04,,Ativo,
+135,São Paulo,1212.75,2025-02-07,2025-04-12,Cancelado,Mudança de Endereço
+136,São Paulo,1154.31,2024-09-24,,Ativo,
+137,Londrina,1603.48,2024-08-20,,Ativo,
+138,São Paulo,1883.55,2025-07-03,,Ativo,
+139,Londrina,933.9,2024-04-14,,Ativo,
+140,São Paulo,1425.59,2024-04-08,,Ativo,
+141,São Paulo,2474.84,2024-03-19,,Ativo,
+142,São Paulo,631.57,2023-06-06,,Ativo,
+143,São Paulo,1595.18,2023-09-05,,Ativo,
+144,São Paulo,1967.94,2024-04-23,,Ativo,
+145,São Paulo,1552.81,2025-02-22,2025-06-03,Cancelado,Financeiro
+146,São Paulo,1612.6,2025-08-03,,Ativo,
+147,Toledo,1402.7,2024-07-04,,Ativo,
+148,São Paulo,2098.99,2023-05-11,,Ativo,
+149,Toledo,2001.52,2023-01-26,,Ativo,
+150,Londrina,1837.0,2025-09-26,2026-01-06,Cancelado,Mudança de Endereço
+151,São Paulo,930.14,2024-06-11,,Ativo,
+152,Londrina,573.49,2025-07-22,2025-09-12,Cancelado,Financeiro
+153,São Paulo,1580.88,2023-05-31,2023-12-18,Cancelado,Mudança de Endereço
+154,Toledo,1098.95,2025-04-04,,Ativo,
+155,São Paulo,1904.58,2024-12-14,,Ativo,
+156,Londrina,1988.77,2023-10-08,,Ativo,
+157,São Paulo,907.39,2025-05-25,,Ativo,
+158,Toledo,1675.02,2024-02-21,,Ativo,
+159,Toledo,1073.43,2024-04-11,2025-04-04,Cancelado,Concorrência
+160,São Paulo,838.61,2023-05-06,,Ativo,
+161,Londrina,1064.46,2024-01-03,,Ativo,
+162,São Paulo,1402.76,2023-11-14,2024-10-30,Cancelado,Mau Atendimento
+163,São Paulo,1532.08,2023-01-30,,Ativo,
+164,São Paulo,2364.99,2024-07-05,,Ativo,
+165,Londrina,2322.53,2023-01-07,,Ativo,
+166,São Paulo,2101.18,2023-07-12,,Ativo,
+167,São Paulo,1642.03,2024-02-02,2024-08-14,Cancelado,Preço
+168,São Paulo,1364.49,2025-07-17,,Ativo,
+169,Toledo,2082.13,2025-03-14,,Ativo,
+170,São Paulo,1810.48,2024-04-20,,Ativo,
+171,Toledo,1380.35,2024-10-16,,Ativo,
+172,Toledo,862.72,2023-10-06,2024-09-14,Cancelado,Mudança de Endereço
+173,São Paulo,1082.11,2025-01-30,,Ativo,
+174,São Paulo,1184.62,2024-01-19,,Ativo,
+175,Toledo,1997.48,2025-09-24,,Ativo,
+176,São Paulo,2371.49,2024-02-29,,Ativo,
+177,São Paulo,2111.28,2024-07-03,,Ativo,
+178,São Paulo,1132.46,2024-05-19,,Ativo,
+179,São Paulo,1738.98,2024-03-21,2024-08-12,Cancelado,Preço
+180,Toledo,1705.92,2025-01-15,2025-06-06,Cancelado,Mudança de Endereço
+181,São Paulo,1921.12,2023-01-07,,Ativo,
+182,São Paulo,1614.51,2024-05-19,,Ativo,
+183,Londrina,1191.79,2025-07-29,,Ativo,
+184,São Paulo,1772.86,2025-01-05,,Ativo,
+185,São Paulo,2374.54,2023-01-15,,Ativo,
+186,Toledo,544.53,2024-12-24,,Ativo,
+187,São Paulo,2292.98,2023-08-27,2023-12-17,Cancelado,Financeiro
+188,São Paulo,1715.16,2023-02-06,,Ativo,
+189,Toledo,1340.43,2024-08-14,,Ativo,
+190,Londrina,1646.38,2023-01-04,,Ativo,
+191,São Paulo,744.78,2023-08-07,,Ativo,
+192,Toledo,2469.03,2024-10-16,,Ativo,
+193,São Paulo,1568.58,2025-04-30,,Ativo,
+194,São Paulo,591.52,2023-02-01,,Ativo,
+195,São Paulo,1453.27,2025-07-07,,Ativo,
+196,Londrina,1647.65,2024-10-11,,Ativo,
+197,Londrina,2212.86,2025-01-20,,Ativo,
+198,São Paulo,2255.73,2023-07-10,,Ativo,
+199,Toledo,758.77,2025-09-18,,Ativo,
+200,São Paulo,1939.09,2025-06-15,,Ativo,
+201,São Paulo,1200.84,2023-12-14,,Ativo,
+202,Toledo,2482.49,2023-08-03,,Ativo,
+203,Londrina,2381.72,2023-08-08,2024-07-19,Cancelado,Mudança de Endereço
+204,São Paulo,1526.14,2024-01-30,,Ativo,
+205,São Paulo,2464.63,2023-08-16,2024-08-10,Cancelado,Preço
+206,Toledo,1188.19,2024-01-14,,Ativo,
+207,São Paulo,1028.25,2023-06-20,,Ativo,
+208,Toledo,1199.43,2024-09-10,,Ativo,
+209,São Paulo,1037.43,2023-07-12,,Ativo,
+210,São Paulo,2356.12,2024-04-22,,Ativo,
+211,São Paulo,2474.58,2023-07-20,,Ativo,
+212,Toledo,2011.01,2024-04-08,,Ativo,
+213,Toledo,1842.13,2024-05-19,,Ativo,
+214,São Paulo,657.63,2023-04-22,,Ativo,
+215,São Paulo,2397.68,2023-02-01,2023-03-05,Cancelado,Concorrência
+216,Londrina,1622.99,2023-03-26,,Ativo,
+217,Toledo,963.92,2023-12-05,,Ativo,
+218,São Paulo,876.54,2025-07-01,,Ativo,
+219,São Paulo,2407.91,2025-01-15,,Ativo,
+220,Toledo,1016.03,2024-04-02,,Ativo,
+221,Toledo,1263.69,2024-02-11,,Ativo,
+222,São Paulo,1702.76,2023-01-15,2023-07-31,Cancelado,Mudança de Endereço
+223,Londrina,1012.37,2023-12-12,,Ativo,
+224,São Paulo,636.19,2024-07-31,,Ativo,
+225,Londrina,1314.6,2025-05-11,,Ativo,
+226,São Paulo,572.07,2024-11-20,,Ativo,
+227,São Paulo,1248.77,2023-07-08,,Ativo,
+228,São Paulo,1564.01,2023-09-04,,Ativo,
+229,São Paulo,2369.99,2023-06-11,2023-07-14,Cancelado,Mudança de Endereço
+230,São Paulo,2421.87,2023-07-27,,Ativo,
+231,Toledo,1120.65,2023-09-11,,Ativo,
+232,São Paulo,669.18,2024-03-16,,Ativo,
+233,São Paulo,584.01,2023-06-24,,Ativo,
+234,Toledo,2439.47,2024-07-11,,Ativo,
+235,São Paulo,2421.87,2024-07-13,,Ativo,
+236,São Paulo,765.81,2025-08-18,2025-09-24,Cancelado,Concorrência
+237,São Paulo,1670.65,2023-09-14,,Ativo,
+238,São Paulo,1134.09,2023-07-29,2023-10-03,Cancelado,Mau Atendimento
+239,São Paulo,2186.98,2025-07-13,,Ativo,
+240,São Paulo,2371.73,2024-02-13,,Ativo,
+241,São Paulo,1598.55,2024-05-05,,Ativo,
+242,Londrina,1158.32,2024-01-11,,Ativo,
+243,Toledo,1961.17,2024-05-24,,Ativo,
+244,São Paulo,1746.62,2025-02-06,,Ativo,
+245,São Paulo,584.55,2023-11-22,2024-11-13,Cancelado,Mau Atendimento
+246,Toledo,1121.52,2023-05-07,,Ativo,
+247,São Paulo,1376.46,2025-08-20,,Ativo,
+248,São Paulo,1767.66,2024-07-30,,Ativo,
+249,Toledo,2380.38,2024-04-16,,Ativo,
+250,São Paulo,2095.4,2024-09-19,2025-05-20,Cancelado,Mau Atendimento
+251,Toledo,588.17,2023-12-04,,Ativo,
+252,São Paulo,565.77,2023-05-11,,Ativo,
+253,São Paulo,2457.23,2024-04-12,,Ativo,
+254,São Paulo,2412.85,2024-08-31,2025-05-06,Cancelado,Mudança de Endereço
+255,São Paulo,2420.21,2024-10-26,,Ativo,
+256,São Paulo,1490.4,2023-01-23,,Ativo,
+257,São Paulo,2326.85,2023-02-03,2023-06-16,Cancelado,Mau Atendimento
+258,São Paulo,728.36,2023-04-29,,Ativo,
+259,São Paulo,2212.35,2024-02-28,,Ativo,
+260,Toledo,639.82,2023-12-04,,Ativo,
+261,São Paulo,788.04,2024-12-22,,Ativo,
+262,São Paulo,2356.87,2024-02-07,,Ativo,
+263,São Paulo,1634.44,2024-12-29,2025-10-18,Cancelado,Preço
+264,Toledo,781.49,2025-07-19,,Ativo,
+265,Toledo,2092.58,2025-05-26,,Ativo,
+266,Toledo,1782.43,2025-04-14,,Ativo,
+267,São Paulo,532.23,2023-02-10,,Ativo,
+268,Toledo,804.99,2023-11-10,,Ativo,
+269,São Paulo,2231.65,2023-01-03,,Ativo,
+270,Toledo,2485.55,2023-11-28,2024-07-08,Cancelado,Mau Atendimento
+271,Toledo,605.95,2025-08-12,,Ativo,
+272,Londrina,2222.55,2024-12-16,,Ativo,
+273,São Paulo,2084.85,2025-07-30,,Ativo,
+274,Londrina,1479.13,2023-01-02,2023-08-28,Cancelado,Mudança de Endereço
+275,São Paulo,2387.85,2024-04-20,,Ativo,
+276,São Paulo,1810.46,2024-06-13,2025-01-04,Cancelado,Concorrência
+277,Londrina,670.73,2025-01-07,,Ativo,
+278,São Paulo,753.64,2025-05-06,,Ativo,
+279,São Paulo,508.34,2024-01-06,,Ativo,
+280,São Paulo,1762.71,2023-12-13,2024-11-08,Cancelado,Mudança de Endereço
+281,Londrina,2267.91,2023-06-10,,Ativo,
+282,São Paulo,773.98,2023-03-18,,Ativo,
+283,São Paulo,660.01,2025-09-10,,Ativo,
+284,São Paulo,1958.58,2023-06-10,2023-11-23,Cancelado,Financeiro
+285,Londrina,929.22,2023-03-13,2023-11-24,Cancelado,Mau Atendimento
+286,Londrina,1694.61,2025-04-02,,Ativo,
+287,São Paulo,1203.03,2024-10-24,,Ativo,
+288,São Paulo,1151.92,2024-07-31,,Ativo,
+289,Londrina,1744.25,2024-06-11,,Ativo,
+290,São Paulo,1003.18,2023-10-27,,Ativo,
+291,São Paulo,535.11,2024-11-23,,Ativo,
+292,São Paulo,1060.21,2024-06-19,,Ativo,
+293,São Paulo,931.25,2025-01-09,2025-10-02,Cancelado,Financeiro
+294,São Paulo,1515.34,2025-07-18,,Ativo,
+295,São Paulo,1863.16,2023-07-20,2024-06-13,Cancelado,Financeiro
+296,Toledo,1424.82,2025-01-02,,Ativo,
+297,São Paulo,1189.14,2024-09-24,,Ativo,
+298,Londrina,607.68,2023-10-31,,Ativo,
+299,São Paulo,2340.65,2025-08-16,,Ativo,
+300,Toledo,1999.95,2025-09-18,,Ativo,
+301,São Paulo,622.66,2024-04-28,,Ativo,
+302,São Paulo,911.97,2024-06-29,,Ativo,
+303,Londrina,1598.15,2023-05-08,,Ativo,
+304,São Paulo,2418.45,2025-07-07,,Ativo,
+305,São Paulo,1028.07,2025-04-01,,Ativo,
+306,São Paulo,2377.65,2024-04-03,2024-10-05,Cancelado,Mau Atendimento
+307,São Paulo,1483.27,2024-06-06,2024-12-26,Cancelado,Mudança de Endereço
+308,São Paulo,1401.31,2024-12-15,,Ativo,
+309,Londrina,611.54,2024-06-24,,Ativo,
+310,Toledo,1341.92,2024-02-20,,Ativo,
+311,São Paulo,2033.23,2023-02-11,,Ativo,
+312,São Paulo,594.94,2024-01-17,2024-07-06,Cancelado,Concorrência
+313,São Paulo,1005.54,2023-07-14,,Ativo,
+314,São Paulo,1468.61,2025-02-12,2025-04-20,Cancelado,Mudança de Endereço
+315,São Paulo,1796.66,2023-09-13,,Ativo,
+316,São Paulo,650.6,2023-02-14,,Ativo,
+317,São Paulo,659.78,2025-06-14,,Ativo,
+318,São Paulo,1988.23,2025-05-05,,Ativo,
+319,São Paulo,1853.91,2023-08-20,,Ativo,
+320,São Paulo,509.11,2023-03-08,,Ativo,
+321,Toledo,1742.82,2024-12-27,,Ativo,
+322,Toledo,1112.08,2024-11-30,,Ativo,
+323,São Paulo,2133.56,2023-03-11,,Ativo,
+324,Londrina,668.77,2023-02-20,,Ativo,
+325,Toledo,2276.4,2024-01-11,2024-08-05,Cancelado,Financeiro
+326,São Paulo,2471.94,2024-01-08,,Ativo,
+327,São Paulo,2461.57,2024-10-19,,Ativo,
+328,São Paulo,839.34,2025-05-30,,Ativo,
+329,Toledo,1866.68,2023-02-15,2023-11-05,Cancelado,Preço
+330,Londrina,1284.14,2025-03-21,,Ativo,
+331,São Paulo,2288.54,2025-05-08,,Ativo,
+332,São Paulo,624.63,2024-10-18,,Ativo,
+333,São Paulo,779.64,2023-03-13,,Ativo,
+334,Londrina,1614.71,2023-04-01,,Ativo,
+335,Toledo,1645.35,2024-08-11,,Ativo,
+336,São Paulo,1222.04,2023-09-02,,Ativo,
+337,Londrina,1752.69,2023-01-05,2023-09-25,Cancelado,Concorrência
+338,São Paulo,1642.3,2024-11-16,,Ativo,
+339,Londrina,1692.24,2025-08-24,,Ativo,
+340,São Paulo,975.72,2025-04-21,2025-10-11,Cancelado,Mau Atendimento
+341,Toledo,2298.98,2025-06-01,,Ativo,
+342,São Paulo,2245.89,2024-10-05,,Ativo,
+343,Londrina,817.63,2023-11-26,,Ativo,
+344,Toledo,555.67,2025-08-19,2025-12-06,Cancelado,Financeiro
+345,Toledo,2342.95,2025-05-02,2025-10-01,Cancelado,Financeiro
+346,São Paulo,913.28,2023-02-05,2023-07-27,Cancelado,Financeiro
+347,São Paulo,1984.35,2023-10-09,,Ativo,
+348,Londrina,640.41,2025-06-03,2025-12-10,Cancelado,Preço
+349,São Paulo,1069.1,2023-03-23,,Ativo,
+350,São Paulo,1383.1,2025-06-24,,Ativo,
+351,Londrina,1062.42,2023-10-21,,Ativo,
+352,São Paulo,1009.93,2023-09-12,,Ativo,
+353,Toledo,2320.38,2025-01-18,,Ativo,
+354,São Paulo,604.3,2024-08-27,,Ativo,
+355,Londrina,586.93,2024-03-31,,Ativo,
+356,Toledo,1214.28,2025-09-20,,Ativo,
+357,São Paulo,917.13,2023-11-13,,Ativo,
+358,Toledo,1568.59,2024-08-15,,Ativo,
+359,São Paulo,1095.24,2025-03-22,,Ativo,
+360,São Paulo,1639.53,2023-08-01,2024-02-15,Cancelado,Mudança de Endereço
+361,São Paulo,600.57,2024-07-09,2024-09-25,Cancelado,Mau Atendimento
+362,Toledo,2201.45,2025-05-28,,Ativo,
+363,Londrina,1477.24,2023-03-04,,Ativo,
+364,São Paulo,551.66,2023-02-11,,Ativo,
+365,São Paulo,1130.02,2024-12-02,,Ativo,
+366,Londrina,1662.65,2024-01-05,,Ativo,
+367,São Paulo,985.82,2024-11-02,2025-07-13,Cancelado,Preço
+368,São Paulo,1132.79,2023-09-08,,Ativo,
+369,São Paulo,997.84,2024-04-12,,Ativo,
+370,São Paulo,2206.08,2024-03-26,,Ativo,
+371,São Paulo,547.26,2023-04-20,2023-09-25,Cancelado,Financeiro
+372,São Paulo,1586.23,2023-04-28,2024-04-24,Cancelado,Concorrência
+373,São Paulo,688.76,2024-10-16,,Ativo,
+374,Toledo,1747.72,2023-07-20,,Ativo,
+375,São Paulo,2334.33,2024-08-16,2025-07-07,Cancelado,Mau Atendimento
+376,Toledo,1460.83,2023-04-05,,Ativo,
+377,São Paulo,1059.95,2023-02-13,,Ativo,
+378,São Paulo,1535.23,2025-01-14,,Ativo,
+379,São Paulo,1960.33,2024-11-30,,Ativo,
+380,Londrina,1233.57,2023-03-15,2023-08-25,Cancelado,Mau Atendimento
+381,São Paulo,1084.43,2024-03-11,,Ativo,
+382,São Paulo,1096.61,2023-07-13,,Ativo,
+383,São Paulo,1898.84,2023-02-25,,Ativo,
+384,São Paulo,2216.41,2023-11-14,,Ativo,
+385,São Paulo,2458.66,2023-02-15,,Ativo,
+386,São Paulo,628.39,2024-03-24,,Ativo,
+387,Toledo,811.77,2025-04-03,,Ativo,
+388,São Paulo,1823.75,2024-07-15,2025-06-21,Cancelado,Preço
+389,Toledo,1395.78,2023-04-28,,Ativo,
+390,Londrina,2011.1,2024-01-03,,Ativo,
+391,Londrina,1218.74,2025-09-09,,Ativo,
+392,São Paulo,1178.94,2023-02-28,2024-01-26,Cancelado,Financeiro
+393,Toledo,2210.92,2025-01-31,,Ativo,
+394,São Paulo,892.73,2023-12-07,,Ativo,
+395,São Paulo,653.6,2025-02-08,,Ativo,
+396,Londrina,2108.05,2023-06-06,2023-09-11,Cancelado,Preço
+397,São Paulo,2225.6,2024-09-30,,Ativo,
+398,Toledo,783.33,2024-12-05,2025-02-03,Cancelado,Mudança de Endereço
+399,São Paulo,2192.54,2023-08-17,2023-11-05,Cancelado,Mudança de Endereço
+400,São Paulo,1478.33,2023-08-18,,Ativo,
+401,São Paulo,2174.52,2024-07-01,,Ativo,
+402,São Paulo,1061.7,2023-03-18,2023-05-07,Cancelado,Concorrência
+403,São Paulo,1896.24,2025-06-01,2026-01-06,Cancelado,Mudança de Endereço
+404,São Paulo,2154.81,2024-08-29,,Ativo,
+405,São Paulo,1303.03,2023-06-17,,Ativo,
+406,São Paulo,1050.0,2024-12-02,,Ativo,
+407,Toledo,645.61,2023-04-20,,Ativo,
+408,São Paulo,672.57,2024-06-08,,Ativo,
+409,São Paulo,2016.74,2025-03-11,2026-01-06,Cancelado,Preço
+410,Londrina,1214.35,2023-06-27,2023-12-07,Cancelado,Financeiro
+411,São Paulo,1115.11,2025-09-08,,Ativo,
+412,São Paulo,763.05,2023-07-17,,Ativo,
+413,São Paulo,1560.45,2024-07-10,,Ativo,
+414,Londrina,1666.14,2024-05-07,,Ativo,
+415,São Paulo,1305.57,2024-08-28,,Ativo,
+416,Londrina,1241.0,2025-01-12,2025-12-19,Cancelado,Financeiro
+417,São Paulo,566.07,2025-01-22,,Ativo,
+418,São Paulo,1748.93,2024-07-27,,Ativo,
+419,São Paulo,1294.05,2023-04-08,,Ativo,
+420,São Paulo,1873.15,2023-10-21,,Ativo,
+421,São Paulo,2152.27,2023-12-20,,Ativo,
+422,São Paulo,748.05,2025-06-25,,Ativo,
+423,Londrina,2403.46,2023-10-27,,Ativo,
+424,Toledo,1738.62,2024-06-08,,Ativo,
+425,São Paulo,2456.09,2024-02-15,2024-10-08,Cancelado,Mudança de Endereço
+426,São Paulo,2435.2,2024-02-13,,Ativo,
+427,São Paulo,1502.13,2023-06-02,,Ativo,
+428,São Paulo,1699.95,2024-11-18,,Ativo,
+429,São Paulo,1762.72,2025-07-12,,Ativo,
+430,São Paulo,1732.28,2023-11-05,,Ativo,
+431,Toledo,2049.78,2023-02-27,,Ativo,
+432,Toledo,2371.67,2024-04-16,,Ativo,
+433,São Paulo,1840.24,2023-06-05,,Ativo,
+434,Londrina,808.08,2024-09-27,,Ativo,
+435,São Paulo,1702.42,2025-08-20,2026-01-06,Cancelado,Mau Atendimento
+436,Toledo,1629.57,2024-02-25,,Ativo,
+437,São Paulo,811.5,2024-10-15,,Ativo,
+438,Londrina,631.25,2023-10-03,,Ativo,
+439,São Paulo,1880.02,2025-08-28,,Ativo,
+440,Londrina,1823.61,2025-02-10,2025-11-13,Cancelado,Financeiro
+441,São Paulo,1285.47,2023-08-10,2023-12-15,Cancelado,Preço
+442,Toledo,1444.94,2025-09-03,,Ativo,
+443,São Paulo,1787.87,2025-04-13,,Ativo,
+444,São Paulo,926.94,2023-03-26,,Ativo,
+445,Toledo,2184.8,2023-10-25,,Ativo,
+446,Londrina,1436.37,2025-02-03,,Ativo,
+447,Toledo,1550.16,2025-01-17,,Ativo,
+448,São Paulo,559.44,2025-02-25,,Ativo,
+449,Londrina,1747.08,2025-02-10,,Ativo,
+450,Toledo,815.97,2024-01-11,,Ativo,
+451,São Paulo,1649.17,2023-12-29,2024-11-16,Cancelado,Concorrência
+452,Londrina,2138.15,2025-06-25,,Ativo,
+453,São Paulo,2320.67,2024-12-28,2025-03-19,Cancelado,Preço
+454,São Paulo,682.78,2023-11-12,,Ativo,
+455,São Paulo,2217.15,2025-06-02,2026-01-06,Cancelado,Preço
+456,São Paulo,1865.61,2024-12-24,,Ativo,
+457,Londrina,936.11,2025-03-01,,Ativo,
+458,Toledo,847.5,2024-11-30,,Ativo,
+459,São Paulo,2095.24,2024-05-17,,Ativo,
+460,São Paulo,2340.78,2024-05-04,,Ativo,
+461,São Paulo,716.8,2025-06-30,,Ativo,
+462,Londrina,1369.05,2025-09-13,2025-10-14,Cancelado,Financeiro
+463,São Paulo,624.12,2023-07-21,,Ativo,
+464,São Paulo,1305.75,2025-04-22,2026-01-06,Cancelado,Concorrência
+465,São Paulo,972.09,2024-08-16,,Ativo,
+466,São Paulo,924.22,2024-09-03,,Ativo,
+467,São Paulo,517.5,2025-07-26,,Ativo,
+468,Toledo,2437.38,2024-07-10,,Ativo,
+469,Londrina,1183.59,2024-12-25,,Ativo,
+470,Toledo,731.71,2023-04-03,,Ativo,
+471,Londrina,1058.7,2023-01-22,2023-12-30,Cancelado,Mau Atendimento
+472,São Paulo,1798.29,2023-01-09,,Ativo,
+473,Toledo,1844.42,2024-12-11,,Ativo,
+474,São Paulo,1296.69,2023-10-09,,Ativo,
+475,Londrina,1248.72,2025-02-09,,Ativo,
+476,São Paulo,1259.01,2023-10-19,,Ativo,
+477,Londrina,1843.07,2023-12-15,2024-09-07,Cancelado,Preço
+478,São Paulo,1069.04,2025-09-11,,Ativo,
+479,São Paulo,1943.27,2024-02-25,2024-07-02,Cancelado,Concorrência
+480,São Paulo,1165.91,2023-08-31,,Ativo,
+481,São Paulo,1818.75,2023-11-19,,Ativo,
+482,São Paulo,2133.62,2023-11-07,,Ativo,
+483,São Paulo,1819.08,2024-10-10,,Ativo,
+484,São Paulo,852.41,2023-05-19,,Ativo,
+485,São Paulo,1169.72,2024-10-21,2024-11-26,Cancelado,Preço
+486,São Paulo,1381.07,2023-08-12,,Ativo,
+487,São Paulo,1344.64,2023-12-31,,Ativo,
+488,São Paulo,588.3,2025-03-26,,Ativo,
+489,São Paulo,1769.17,2023-06-24,2024-03-05,Cancelado,Concorrência
+490,Toledo,1827.86,2023-05-29,2024-05-11,Cancelado,Preço
+491,São Paulo,1644.0,2023-05-13,,Ativo,
+492,São Paulo,2474.82,2025-01-31,2025-10-14,Cancelado,Preço
+493,Londrina,604.9,2025-09-04,,Ativo,
+494,São Paulo,2169.79,2025-04-13,,Ativo,
+495,São Paulo,988.83,2025-04-16,,Ativo,
+496,São Paulo,663.99,2023-05-21,,Ativo,
+497,São Paulo,721.96,2023-01-17,2023-12-28,Cancelado,Financeiro
+498,São Paulo,2331.05,2023-08-08,,Ativo,
+499,Londrina,1544.84,2023-10-13,,Ativo,
+500,São Paulo,759.35,2024-02-05,,Ativo,
